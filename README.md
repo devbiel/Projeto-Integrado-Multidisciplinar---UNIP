@@ -1,4 +1,4 @@
-# Projeto-Integrado-Multidisciplinar---UNIP
+# Projeto Integrado Multidisciplinar - UNIP
 
 Esse é o projeto feito em grupo na turma do 2º Semestre de Análise e Desenvolvimento de Sistemas na UNIP em 2/2022.
 
